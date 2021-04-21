@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916791108110",
+    "project_id": "dama-311314",
+    "storage_bucket": "dama-311314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916791108110:android:73d7b9b6dcf973501c125f",
+        "android_client_info": {
+          "package_name": "com.example.dama_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916791108110-4ts25l7v8e71j6s7r5obsgd7t1huc4cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRgoR2ctBvI4oJUBMFuXjRv2FdefMOc7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916791108110-4ts25l7v8e71j6s7r5obsgd7t1huc4cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

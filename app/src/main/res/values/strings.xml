@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dama_app</string>
+    <string name="loginbtn">LOGINBTN</string>
+    <string name="logoutbtn">LOGOUTBTN</string>
+    <string name="screentitle">SCREENTITLE</string>
+    <string name="baglogo">BAGLOGO</string>
+    <string name="urlimage">URLIMAGE</string>
+    <string name="qr_code">qr_code</string>
+</resources>
